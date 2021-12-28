@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Currently Learning
+- Tailwind CSS
+- Firebase
+
+# Fun Fact
+- no idea :D
