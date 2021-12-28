@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Colin, 25 years old, and work as a Frontend Web Developer and UX Engineer.
 
 <!--
 **colfin-96/colfin-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Currently Learning
+## Currently Learning
 - Tailwind CSS
 - Firebase
 
-# Fun Fact
+## Interested In
+- HTML
+- JavaScript / TypeScript
+- CSS / SCSS / SASS / Tailwind CSS
+- Firebase
+- Angular
+
+## Fun Fact
 - no idea :D
