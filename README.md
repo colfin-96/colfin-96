@@ -28,4 +28,9 @@ Here are some ideas to get you started:
 - Angular
 
 ## Fun Fact
-- no idea :D
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=colfin-96&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colfin-96&theme=radical&layout=compact">
+</div>
