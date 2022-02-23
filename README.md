@@ -2,9 +2,9 @@
 I'm Colin, 25 years old, and work as a Frontend Web Developer and UX Engineer.
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=colfin-96&count_private=true&show_icons=true&include_all_commits=true&bg_color=20,281489,7432a8,0088a3&icon_color=FBF421&text_color=FBF421&title_color=B4ED1F">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=colfin-96&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colfin-96&layout=compact&bg_color=20,281489,7432a8,0088a3&icon_color=FBF421&text_color=FBF421&title_color=B4ED1F">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colfin-96&layout=compact&theme=radical">
 </div>
 
 <!--
