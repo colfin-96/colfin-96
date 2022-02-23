@@ -22,17 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently Learning
+## Currently Learning / Interested In
 - Tailwind CSS
 - Firebase
+- npm packaging
 
-## Interested In
+## I Know
 - HTML
 - JavaScript / TypeScript
 - CSS / SCSS / SASS / Tailwind CSS
-- Firebase
 - Angular
+- C#
 
 ## Fun Fact
-
-
+- hmm quite empty here...
