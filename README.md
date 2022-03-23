@@ -34,5 +34,33 @@ Here are some ideas to get you started:
 - Angular
 - C#
 
-## Fun Fact
-- hmm quite empty here...
+## Flow
+```mermaid
+graph TD;
+    c(Code)
+    cs(Complicated Stuff)
+    e(Eat)
+    f(Sometimes playing with flow charts)
+    s(Sleep)
+
+    
+    s-->e
+    e-->c
+    c-->e
+    e-->s
+    e-->f
+    f-->e
+    c-->f
+    f-->c
+
+    cs-->c
+    cs-->cs
+    cs-->e
+    cs-->f
+    cs-->s
+    c-->cs
+    cs-->cs
+    e-->cs
+    f-->cs
+    s-->cs
+```
