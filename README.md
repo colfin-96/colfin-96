@@ -34,33 +34,30 @@ Here are some ideas to get you started:
 - Angular
 - C#
 
-## Flow
+## Graphs
+### Life Problems
 ```mermaid
 graph TD;
-    c(Code)
-    cs(Complicated Stuff)
-    e(Eat)
-    f(Sometimes playing with flow charts)
-    s(Sleep)
-
+    d(Do you have a problem?)
+    c(Can you do something about it?)
+    t(Then don't worry)
     
-    s-->e
-    e-->c
-    c-->e
-    e-->s
-    e-->f
-    f-->e
-    c-->f
-    f-->c
+    d--No-->t
+    d--Yes-->c
+    c--No-->t
+    c--Yes-->t
+```
 
-    cs-->c
-    cs-->cs
-    cs-->e
-    cs-->f
-    cs-->s
-    c-->cs
-    cs-->cs
-    e-->cs
-    f-->cs
-    s-->cs
+### How to play Pictionary
+```mermaid
+graph TD;
+    d(Draw a picture)
+    g{Did they guess it?}
+    p(Point repeatedly to the same picture)
+    w(You win)
+    
+    d-->g
+    g--No-->p
+    p-->g
+    g--Yes-->w
 ```
