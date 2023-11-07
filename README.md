@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Colin, 25 years old, and work as a Frontend Web Developer and UX Engineer.
+I'm Colin, 27 years old, and work as a Frontend Web Developer and UX Engineer.
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=colfin-96&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
